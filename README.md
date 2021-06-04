@@ -6,3 +6,5 @@ use [/community/example.html](/community/example.html) as example
 [mods are online](/mod-online.html)
 
 [just funny emoji](/wow.html)
+
+[tau](/tau.html)
