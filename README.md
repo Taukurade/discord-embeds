@@ -8,3 +8,5 @@ use [/community/example.html](/community/example.html) as example
 [just funny emoji](/wow.html)
 
 [tau](/tau.html)
+
+[good night](/gn.html)
